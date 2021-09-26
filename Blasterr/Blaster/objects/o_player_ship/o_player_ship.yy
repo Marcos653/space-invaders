@@ -35,6 +35,7 @@
     {"propertyId":{"name":"armor","path":"objects/o_ship_parents/o_ship_parents.yy",},"objectId":{"name":"o_ship_parents","path":"objects/o_ship_parents/o_ship_parents.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"max_speed","path":"objects/o_ship_parents/o_ship_parents.yy",},"objectId":{"name":"o_ship_parents","path":"objects/o_ship_parents/o_ship_parents.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"acceleration","path":"objects/o_ship_parents/o_ship_parents.yy",},"objectId":{"name":"o_ship_parents","path":"objects/o_ship_parents/o_ship_parents.yy",},"value":"0.2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"max_armor","path":"objects/o_ship_parents/o_ship_parents.yy",},"objectId":{"name":"o_ship_parents","path":"objects/o_ship_parents/o_ship_parents.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

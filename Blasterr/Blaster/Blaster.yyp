@@ -15,6 +15,7 @@
     {"id":{"name":"lasers_right","path":"scripts/lasers_right/lasers_right.yy",},"order":1,},
     {"id":{"name":"o_explosion_chunk","path":"objects/o_explosion_chunk/o_explosion_chunk.yy",},"order":6,},
     {"id":{"name":"bounce","path":"scripts/bounce/bounce.yy",},"order":0,},
+    {"id":{"name":"Script8","path":"scripts/Script8/Script8.yy",},"order":7,},
     {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":9,},
     {"id":{"name":"s_stars_close","path":"sprites/s_stars_close/s_stars_close.yy",},"order":8,},
     {"id":{"name":"bounce_off","path":"scripts/bounce_off/bounce_off.yy",},"order":5,},

@@ -21,7 +21,7 @@ var _score_x =  room_width - 8 - _score_width
 var _score_y = 8
 
 draw_sprite(s_score,0, _score_x, _score_y)
-draw_text(_score_x + _score_width - 3, _score_y+1, "45")
+draw_text(_score_x + _score_width - 3, _score_y+1, score)
 draw_set_halign(fa_left)
 
 #endregion

@@ -28,7 +28,9 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"max_armor","path":"objects/o_ship_parents/o_ship_parents.yy",},"objectId":{"name":"o_ship_parents","path":"objects/o_ship_parents/o_ship_parents.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
